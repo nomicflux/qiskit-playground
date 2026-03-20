@@ -1,0 +1,22 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+qiskit-ibm-runtime = "*"
+pip = "*"
+python-language-server = "*"
+qiskit = "*"
+matplotlib = "*"
+python-dotenv = "*"
+numpy = "*"
+graphviz = "*"
+pylatexenc = "*"
+sympy = "*"
+qiskit-aer = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.14"
